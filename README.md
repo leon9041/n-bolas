@@ -19,7 +19,6 @@ src/
     Caja.cpp
 scripts/
     graficas_animacion.py
-    plot.py
 results/
     salida.dat
     presion.dat
